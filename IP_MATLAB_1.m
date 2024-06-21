@@ -30,3 +30,4 @@ imshow(x,xmap);
 % modifying the image img1 using some property extraction
 c = uint8(255* (img1>150));
 imshow(c);
+% c is modified_pic1 in modified images folder
